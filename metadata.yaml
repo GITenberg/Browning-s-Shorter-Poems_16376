@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '6660'
     url: http://www.gutenberg.org/2009/agents/6660
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16376#Browning-s-Shorter-Poems
 gutenberg_issued: '2005-07-28'
 gutenberg_type: Text
 identifiers:
